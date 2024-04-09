@@ -1,0 +1,7 @@
+C:\Users\delmy\Desktop\prueba\clasedel6deabril\bin\Debug\clasedel6deabril.exe.config
+C:\Users\delmy\Desktop\prueba\clasedel6deabril\bin\Debug\clasedel6deabril.exe
+C:\Users\delmy\Desktop\prueba\clasedel6deabril\bin\Debug\clasedel6deabril.pdb
+C:\Users\delmy\Desktop\prueba\clasedel6deabril\obj\Debug\clasedel6deabril.csproj.AssemblyReference.cache
+C:\Users\delmy\Desktop\prueba\clasedel6deabril\obj\Debug\clasedel6deabril.csproj.CoreCompileInputs.cache
+C:\Users\delmy\Desktop\prueba\clasedel6deabril\obj\Debug\clasedel6deabril.exe
+C:\Users\delmy\Desktop\prueba\clasedel6deabril\obj\Debug\clasedel6deabril.pdb
