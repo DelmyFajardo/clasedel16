@@ -1,0 +1,7 @@
+C:\Users\delmy\Desktop\prueba\arregloBidimensional\bin\Debug\arregloBidimensional.exe.config
+C:\Users\delmy\Desktop\prueba\arregloBidimensional\bin\Debug\arregloBidimensional.exe
+C:\Users\delmy\Desktop\prueba\arregloBidimensional\bin\Debug\arregloBidimensional.pdb
+C:\Users\delmy\Desktop\prueba\arregloBidimensional\obj\Debug\arregloBidimensional.csproj.AssemblyReference.cache
+C:\Users\delmy\Desktop\prueba\arregloBidimensional\obj\Debug\arregloBidimensional.csproj.CoreCompileInputs.cache
+C:\Users\delmy\Desktop\prueba\arregloBidimensional\obj\Debug\arregloBidimensional.exe
+C:\Users\delmy\Desktop\prueba\arregloBidimensional\obj\Debug\arregloBidimensional.pdb
