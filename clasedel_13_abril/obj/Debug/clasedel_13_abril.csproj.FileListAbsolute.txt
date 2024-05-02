@@ -1,0 +1,7 @@
+C:\Users\delmy\Desktop\practicadel16\clasedel_13_abril\bin\Debug\clasedel_13_abril.exe.config
+C:\Users\delmy\Desktop\practicadel16\clasedel_13_abril\bin\Debug\clasedel_13_abril.exe
+C:\Users\delmy\Desktop\practicadel16\clasedel_13_abril\bin\Debug\clasedel_13_abril.pdb
+C:\Users\delmy\Desktop\practicadel16\clasedel_13_abril\obj\Debug\clasedel_13_abril.csproj.AssemblyReference.cache
+C:\Users\delmy\Desktop\practicadel16\clasedel_13_abril\obj\Debug\clasedel_13_abril.csproj.CoreCompileInputs.cache
+C:\Users\delmy\Desktop\practicadel16\clasedel_13_abril\obj\Debug\clasedel_13_abril.exe
+C:\Users\delmy\Desktop\practicadel16\clasedel_13_abril\obj\Debug\clasedel_13_abril.pdb

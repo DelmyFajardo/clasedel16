@@ -1,0 +1,10 @@
+C:\Users\delmy\Desktop\practicadel16\copia del 20de abril\bin\Debug\copia del 20de abril.exe.config
+C:\Users\delmy\Desktop\practicadel16\copia del 20de abril\bin\Debug\copia del 20de abril.exe
+C:\Users\delmy\Desktop\practicadel16\copia del 20de abril\bin\Debug\copia del 20de abril.pdb
+C:\Users\delmy\Desktop\practicadel16\copia del 20de abril\obj\Debug\copia del 20de abril.csproj.AssemblyReference.cache
+C:\Users\delmy\Desktop\practicadel16\copia del 20de abril\obj\Debug\copia_del_20de_abril.Form1.resources
+C:\Users\delmy\Desktop\practicadel16\copia del 20de abril\obj\Debug\copia_del_20de_abril.Properties.Resources.resources
+C:\Users\delmy\Desktop\practicadel16\copia del 20de abril\obj\Debug\copia del 20de abril.csproj.GenerateResource.cache
+C:\Users\delmy\Desktop\practicadel16\copia del 20de abril\obj\Debug\copia del 20de abril.csproj.CoreCompileInputs.cache
+C:\Users\delmy\Desktop\practicadel16\copia del 20de abril\obj\Debug\copia del 20de abril.exe
+C:\Users\delmy\Desktop\practicadel16\copia del 20de abril\obj\Debug\copia del 20de abril.pdb

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B50D9D8E-F939-4146-9DF0-E5BAB38E0C20}</ProjectGuid>
+    <ProjectGuid>{50C606B4-9733-493E-87C5-185531A42E59}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>practicadel16</RootNamespace>
-    <AssemblyName>practicadel16</AssemblyName>
+    <RootNamespace>clasedel_13_abril</RootNamespace>
+    <AssemblyName>clasedel_13_abril</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="animal.cs" />
+    <Compile Include="Audi.cs" />
+    <Compile Include="Auto.cs" />
+    <Compile Include="BMW.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
